@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SudoESIEE</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="bouton_brouillon_ON_">Brouillon ON</string>
+    <string name="bouton_brouillon_OFF_">Brouillon OFF</string>
+    <string name="bouton_new_">New</string>
+    <string name="bouton_resoudre_">Résoudre</string>
+    <string name="bouton_effacer_">Effacer</string>
+
+</resources>
