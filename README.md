@@ -3,7 +3,8 @@ SudoESIEE - Sudoku
 
 ## ESIEE Project
 
-* Date : spring 2014
+* Date : Spring 2014
+* [Play Store](https://play.google.com/store/apps/details?id=com.esiee.sudoku)
 
 
 ## DEVELOPER
